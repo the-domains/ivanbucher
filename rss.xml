@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[IvanBucher]]></title>
         <description><![CDATA[IvanBucher]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ivanbucher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 17:15:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 17:20:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ivanbucher/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A New Year In Wisconsin]]></title>
+            <description><![CDATA[<article><h1>A New Year In Wisconsin</h1><p>Fire trucks, Christmas lights, and a pink baby! We've had great experiences en route to NYC and Simon's day was made when we spent nearly five hours at the three-story children's museum in La...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0abde37fa92b096c21c45540c5ee9320c1b498d.jpg"></article>]]></description>
+            <link>http://www.ivanandkirsten.com/ministry-blog/a-new-year-in-wisconsin</link>
+            <guid isPermaLink="false">0b44cf9e-0b68-47f3-8296-277b25a37971</guid>
+            <pubDate>Mon, 25 Jan 2016 17:20:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b335fbc-8f63-4d6f-bdf1-a7054f965da6.jpg" alt="" title="">]]></description>
-            <link>undefined23f138bb-1e2a-473a-846c-02d085ed5328/index.html</link>
+            <link>https://thegrid.ai/ivanbucher/23f138bb-1e2a-473a-846c-02d085ed5328/index.html</link>
             <guid isPermaLink="false">23f138bb-1e2a-473a-846c-02d085ed5328</guid>
             <pubDate>Mon, 25 Jan 2016 17:15:21 GMT</pubDate>
         </item>
