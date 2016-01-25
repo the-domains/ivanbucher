@@ -1,0 +1,28 @@
+name: IvanBucher
+favicon: null
+layout_spectrum: 0.8178573176264763
+typography_spectrum: 0.7776993294246495
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.0433200285769999
+  lightness: 0.7977606554049999
+  saturation: 0.4807322295382619
+  rhythmicContrast: 0.5679069571197033
+purpose: []
