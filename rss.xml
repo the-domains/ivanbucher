@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[IvanBucher]]></title>
-        <description><![CDATA[IvanBucher]]></description>
+        <title><![CDATA[IvanBucher.com]]></title>
+        <description><![CDATA[IvanBucher.com]]></description>
         <link>https://thegrid.ai/ivanbucher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 17:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 21:29:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ivanbucher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[A new journey, a new website]]></title>
+            <description><![CDATA[<article><h1>A new journey, a new website</h1><p>Welcome to IvanBucher.com! I've been wanting a space to share my life and thoughts for some time now. I think I found a platform that will let me do it the way I've been imagining.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3b01b24df2ea2ddbb5818aca9bd724352177b90.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ivanbucher/23f138bb-1e2a-473a-846c-02d085ed5328/index.html</link>
+            <guid isPermaLink="false">23f138bb-1e2a-473a-846c-02d085ed5328</guid>
+            <pubDate>Mon, 25 Jan 2016 21:29:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[#BigSkyToBigApple]]></title>
-            <description><![CDATA[<article><h1>#BigSkyToBigApple</h1><p>Here we are, all packed up and ready to head East! We're traveling pretty light, as you can see! We sold one car and plan to sell this one soon, so most of what we're carrying involves Simon's...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afedca0bcf047d0e9da6125d700b5dc5ac856349.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>#BigSkyToBigApple</h1><p>Here we are, all packed up and ready to head East! We're traveling pretty light, as you can see! We sold one car and plan to sell this one soon, so most of what we're carrying involves Simon's...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/429bf5e2f7a8852430d3eb8e0b41db0b16ca4566.gif"></article>]]></description>
             <link>http://www.ivanandkirsten.com/ministry-blog/bigskytobigapple</link>
             <guid isPermaLink="false">a7d4763b-8c51-4a15-928f-71ce252f1ca5</guid>
             <pubDate>Mon, 25 Jan 2016 17:22:37 GMT</pubDate>
@@ -19,13 +26,6 @@
             <link>http://www.ivanandkirsten.com/ministry-blog/a-new-year-in-wisconsin</link>
             <guid isPermaLink="false">0b44cf9e-0b68-47f3-8296-277b25a37971</guid>
             <pubDate>Mon, 25 Jan 2016 17:20:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b335fbc-8f63-4d6f-bdf1-a7054f965da6.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ivanbucher/23f138bb-1e2a-473a-846c-02d085ed5328/index.html</link>
-            <guid isPermaLink="false">23f138bb-1e2a-473a-846c-02d085ed5328</guid>
-            <pubDate>Mon, 25 Jan 2016 17:15:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
