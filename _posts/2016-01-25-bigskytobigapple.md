@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.ivanandkirsten.com'
-  name: IvanandKirsten.com
-  favicon: 'http://www.ivanandkirsten.com/favicon.ico'
-  domain: www.ivanandkirsten.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.ivanandkirsten.com/ministry-blog/we-secured-an-apartment'
+inLanguage: en
+starred: false
 keywords:
   - nyc
   - cru
@@ -18,19 +17,22 @@ keywords:
   - out-qualifying
   - income-subsidized
 description: "A brand new building with a doorman... three bedrooms (come visit us!)... at 50% off the market rate with stabilized rent. Now for the cherry on top... a 15th floor view of the Empire State Building! We couldn't have asked for more!"
-inLanguage: en
+datePublished: '2016-01-26T01:25:51.361Z'
+dateModified: '2016-01-26T01:25:48.583Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.ivanandkirsten.com/ministry-blog/we-secured-an-apartment'
 title: '#BigSkyToBigApple'
-datePublished: '2016-01-25T21:29:48.228Z'
-dateModified: '2016-01-25T17:23:59.320Z'
 sourcePath: _posts/2016-01-25-bigskytobigapple.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: IvanandKirsten.com
+  domain: www.ivanandkirsten.com
+  url: 'http://www.ivanandkirsten.com'
+  favicon: 'http://www.ivanandkirsten.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>&amp;num;BigSkyToBigApple</h1><p>A brand new building with a doorman&amp;period;&amp;period;&amp;period; three bedrooms &amp;lpar;come visit us&amp;excl;&amp;rpar;&amp;period;&amp;period;&amp;period; at 50&amp;percnt; off the market rate with stabilized rent&amp;period; Now for the cherry on top&amp;period;&amp;period;&amp;period; a 15th floor view of the Empire State Building&amp;excl; We couldn't have asked for more&amp;excl;</p><img src="http://www.ivanandkirsten.com/uploads/3/6/2/0/3620896/4945607_orig.jpg" /></article>
+<article style=""><h1>We Secured An Apartment!</h1><p>A brand new building with a doorman... three bedrooms (come visit us!)... at 50% off the market rate with stabilized rent. Now for the cherry on top... a 15th floor view of the Empire State Building! We couldn't have asked for more!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5002dd51d34f53e4526812010c2e3c832364c054.jpg" /></article>
