@@ -17,8 +17,8 @@ keywords:
   - out-qualifying
   - income-subsidized
 description: "A brand new building with a doorman... three bedrooms (come visit us!)... at 50% off the market rate with stabilized rent. Now for the cherry on top... a 15th floor view of the Empire State Building! We couldn't have asked for more!"
-datePublished: '2016-01-26T01:25:51.412Z'
-dateModified: '2016-01-26T01:25:48.583Z'
+datePublished: '2016-01-26T01:38:08.859Z'
+dateModified: '2016-01-26T01:38:06.002Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>We Secured An Apartment!</h1><p>A brand new building with a doorman... three bedrooms (come visit us!)... at 50% off the market rate with stabilized rent. Now for the cherry on top... a 15th floor view of the Empire State Building! We couldn't have asked for more!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5002dd51d34f53e4526812010c2e3c832364c054.jpg" /></article>
+<article style=""><h1>We Secured An Apartment!</h1><p>A brand new building with a doorman... three bedrooms (come visit us!)... at 50% off the market rate with stabilized rent. Now for the cherry on top... a 15th floor view of the Empire State Building! We couldn't have asked for more!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b804298dc4973d7d3feb8e7e457d6389e0b085d1.jpg" /></article>
