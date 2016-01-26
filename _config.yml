@@ -1,7 +1,7 @@
 name: IvanBucher
 favicon: null
-layout_spectrum: 0.49197
-typography_spectrum: 0.1586
+layout_spectrum: 0
+typography_spectrum: 0.49583
 title: IvanBucher.com
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#c0bfc0'
     - '#00b4cb'
     - '#00739b'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
   saturation: 0
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
