@@ -1,7 +1,7 @@
-name: IvanBucher
+name: Ivan Bucher
 favicon: null
-layout_spectrum: 0.4975
-typography_spectrum: 0.49583
+layout_spectrum: 0
+typography_spectrum: 0.14525
 title: IvanBucher.com
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#040404'
-    - '#ffffff'
-    - '#ff9400'
-    - '#4f2400'
-    - '#726155'
-  brandStrength: 0.0625
-  lightness: 0.625
-  saturation: 0.5
-  rhythmicContrast: 0.25
+    - '#000000'
+    - '#8a8a8a'
+    - '#e3d9cd'
+    - '#535456'
+    - '#87c5dc'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
